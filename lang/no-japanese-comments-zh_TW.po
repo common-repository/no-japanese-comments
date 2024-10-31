@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: No Japanese Comments\n"
+"POT-Creation-Date: 2014-03-05 20:10+0800\n"
+"PO-Revision-Date: 2014-03-05 20:10+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: no-japanese-comments.php:48
+msgid "Settings"
+msgstr "設定"
+
+#: options.php:12 options.php:35
+msgid "No Japanese Comments Options Page"
+msgstr "No Japanese Comments 設定頁面"
+
+#: options.php:12
+msgid "No Japanese Comments"
+msgstr "No Japanese Comments"
+
+#: options.php:38
+msgid "General Options"
+msgstr "一般設定"
+
+#: options.php:41
+msgid "Disallow Japanese Language Comments Notice: "
+msgstr "「禁止日文評論」提示："
+
+#: options.php:47
+msgid "Blog Comments Mode: "
+msgstr "部落格評論模式："
+
+#: options.php:49
+msgid "Wordpress Default"
+msgstr "WordPress默認"
+
+#: options.php:49
+msgid "AJAX"
+msgstr "AJAX"
+
+#: options.php:50
+msgid "(If you don't know what it means, Please try both)"
+msgstr "（如果你不清楚這是什麼，請將兩個選項都試一下）"
+
+#~ msgid "Last Post Redirect Options Page"
+#~ msgstr "Last Post Redirect 設定頁面"
+
+#~ msgid "Last Post Redirect"
+#~ msgstr "Last Post Redirect"
+
+#~ msgid "You can go to your latest post by %s or using function %s"
+#~ msgstr "你可以通過 %s 或使用PHP Function %s 來前往你的最新文章"
+
+#~ msgid "You can go to your latest post by: "
+#~ msgstr "前往最新文章的地址："
+
+#~ msgid "Way you want to get for the latest post: "
+#~ msgstr "前往最新文章的方式："
+
+#~ msgid "Use MYSQL Command"
+#~ msgstr "使用MYSQL命令"
+
+#~ msgid "Status of post you want to get for the latest post: "
+#~ msgstr "前往最新文章的文章狀態："
+
+#~ msgid "Publish Post"
+#~ msgstr "已發表文章"
+
+#~ msgid "Draft"
+#~ msgstr "草稿"
+
+#~ msgid "Future Post"
+#~ msgstr "即將發表文章"
+
+#~ msgid "Private Post"
+#~ msgstr "私密文章"
+
+#~ msgid "Type you want to get for the latest post: "
+#~ msgstr "前往最新文章的文章種類："
+
+#~ msgid "Post"
+#~ msgstr "文章"
+
+#~ msgid "Page"
+#~ msgstr "頁面"
